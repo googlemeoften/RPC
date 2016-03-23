@@ -1,3 +1,4 @@
+/*
 package cn.edu.base.source;
 
 import java.net.InetSocketAddress;
@@ -9,9 +10,11 @@ import org.jboss.netty.channel.ChannelPipelineFactory;
 import org.jboss.netty.channel.Channels;
 import org.jboss.netty.channel.socket.nio.NioServerSocketChannelFactory;
 
+*/
 /**
  * Echoes back any received data from a client.
- */
+ *//*
+
 public class TestServer {
 
 	private final int port;
@@ -43,4 +46,4 @@ public class TestServer {
 
 		new TestServer(8080).run();
 	}
-}
+}*/

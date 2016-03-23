@@ -1,3 +1,4 @@
+/*
 package cn.edu.base.source;
   
 import java.nio.charset.Charset;  
@@ -10,9 +11,11 @@ import org.jboss.netty.channel.MessageEvent;
 import org.jboss.netty.channel.SimpleChannelUpstreamHandler;  
   
   
-/** 
+*/
+/**
  * Handler implementation for the echo server. 
- */  
+ *//*
+
 public class TestServerHandler extends SimpleChannelUpstreamHandler {  
   
     @Override  
@@ -40,3 +43,4 @@ public class TestServerHandler extends SimpleChannelUpstreamHandler {
         e.getChannel().close();  
     }  
 }  
+*/
